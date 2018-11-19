@@ -1,0 +1,14 @@
+Public static void main(String []arg){
+
+Class Dog{
+
+int age;
+String name;
+}
+
+age = 9;
+name = Tomy;
+System.out.println("name of dog is"+age);
+System.out.println("name of dog is"+name);
+
+}
