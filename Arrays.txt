@@ -1,0 +1,24 @@
+Arrays:
+
+
+class arrays{
+
+Public static void main (String args[]){
+
+int x [][] = new int [2][3];
+
+x [0][0] = 70;
+x [0][1] = 345;
+x [0][2] = 45;
+x [1][0] = 67;
+x [1][1] = 23;
+x [1][2] = 200;
+
+System.out.prinln (x[1][1]);
+System.out.prinln (x[1][2]);
+System.out.prinln (x[0][1]);
+System.out.prinln (x[1][0]);
+
+}
+}
+ 
